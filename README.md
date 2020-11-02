@@ -1,6 +1,6 @@
 # OpenCV Snapchat Filter Workshop
 
-This repo contains resources for the Intro to Facial Recognition
+This repo contains resources for the Intro to OpenCV - Snapchat Filter workshop
 
 ## Setting up
 1. Install virtualenv
